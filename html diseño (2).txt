@@ -1,0 +1,41 @@
+<table>
+<tr>
+<th>Nombre</th>
+<th>Dirección</th>
+<th>Teléfono</th>
+<th>Departamento</th>
+</tr>
+<tr>
+<td>Pedro</td>
+<td>Av. Rivera 898</td>
+<td>29028876</td>
+<td>Montevideo</td>
+</tr>
+<tr>
+<td>Ana</td>
+<td>Marruecos 2454</td>
+<td>26023475</td>
+<td>Montevideo</td>
+</tr>
+</table>
+
+< table border=“1” cellspacing=“1”>
+< tr >
+< th>Nombre</th >
+< th>Dirección</th >
+< th>Teléfono</th >
+< th>Departamento</th >
+< /tr >
+< tr >
+< td>Pedro</td >
+< td>Av. Rivera 898</td >
+< td>29028876</td >
+< td>Montevideo</td >
+< /tr >
+< tr >
+< td>Ana</td >
+< td>Marruecos 2454</td >
+< td>26023475</td >
+< td>Montevideo</td >
+< /tr >
+</table>
